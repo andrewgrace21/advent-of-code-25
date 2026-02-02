@@ -1,2 +1,3 @@
-# advent-of-code-25
-2025 Advent of Code Challenges
+# Advent Of Code 2025
+
+Working through 12 days of coding challenge 
